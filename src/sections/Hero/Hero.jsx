@@ -30,7 +30,7 @@ function Hero() {
                 <br />
                 Jha
             </h1>
-            <h2>Frontend Developer</h2>
+            <h2>Web Developer</h2>
             <span>
                 <a href="#" target='_blank'>
                     <img src={twitterIcon} alt="" />
@@ -42,7 +42,7 @@ function Hero() {
                     <img src={linkedinIcon} alt="" />
                 </a>
             </span>
-            <p className={styles.description}>Full Stack Web Developer with a BSc in Information Technology and experience in web development. Focused on building functional web applications, with knowledge in both front-end and back-end technologies. </p>
+            <p className={styles.description}>Web Developer with a BSc in Information Technology and experience in web development. Focused on building functional web applications, with knowledge in both front-end and back-end technologies. </p>
             <a href={cv} download>
                 <button className={styles.hover} >Resume</button>
             </a>
